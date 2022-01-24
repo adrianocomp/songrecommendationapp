@@ -1,0 +1,9 @@
+#csv files
+
+spotify_albums.csv
+spotify_artists.csv
+spotify_tracks.csv
+
+#other files
+
+.ipynb_checkpoints
